@@ -4,11 +4,11 @@ Oi, eu sou Willian Martins Dametto
 
 ## Meus Hobbies.
  
- - Jogar Video Game
- - Assistir Séries
  - Ler
+ - Academia
+ - Jogar Video Game
+ - Assistir Séries 
  - Tênis de Mesa
- - Caminhar
  
 ## Atualmente estudando
 
