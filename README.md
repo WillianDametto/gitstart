@@ -2,7 +2,7 @@
 
 Oi, eu sou Willian Martins Dametto
 
-## Meus Hobbies.
+## Meus Hobbies
  
  - Ler
  - Academia
